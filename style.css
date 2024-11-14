@@ -1,7 +1,13 @@
 body{
-    background:rgb(134, 9, 134);
+    background: rgb(0, 0, 0);
     color: rgb(217, 147, 235);
     margin: 0px;
     font-family: "Playfair Display", serif;
     margin-bottom: 100px;
+}
+header{
+    border-bottom: 3px solid rgb(238, 174, 238);
+    padding: 20px;
+    color: rgb(252, 252, 252);
+    font-size: 35px;
 }
